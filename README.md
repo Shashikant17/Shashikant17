@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="27px">, I am Shashi Kant!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="12px">, I am Shashi Kant!
 
 <!--
 **Shashikant17/Shashikant17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
